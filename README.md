@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Laurie Dugdale</h1>
+<h3 align="center">git commit -m "Hello, I'm a Software Engineer at Vuture"</h3>
 
 <!--
 **LDugdale/LDugdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
