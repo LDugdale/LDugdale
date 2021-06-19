@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laurie Dugdale</h1>
+<h1 align="center">Hi 👋, I'm Laurie</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer at Vuture"</h3>
 
 <p align="left"> <a href="https://twitter.com/LaurieDugdale" target="blank"><img src="https://img.shields.io/twitter/follow/LaurieDugdale?logo=twitter&style=for-the-badge" alt="LaurieDugdale" /></a> </p>
