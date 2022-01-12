@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **AWS and Docker**
 
-- 💬 Ask me about **C#, Java, Javascript, Golang**
+- 💬 Ask me about **C#, Typescript, Golang**
 
 - 📫 How to reach me **contact@lauriedugdale.com**
 
